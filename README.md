@@ -1,1 +1,2 @@
-# Game suggesties
+# game-suggestie-gen
+
